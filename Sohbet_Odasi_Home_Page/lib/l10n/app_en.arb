@@ -1,0 +1,21 @@
+{
+    "siteBaslik": "Movies in Theaters",
+    "altBaslik": "Labels",
+    "sinema": "Movie",
+    "bilimKurgu": "Sci-Fi",
+    "filmler": "Movies",
+    "aksiyon": "Action",
+    "gerilim": "Thriller",
+    "inception": "Inception",
+    "imdbIns": "IMDB rate: 8.8/10",
+    "imdbDune": "IMDB rate: 8.0/10",
+    "imdbMat": "IMDB rate: 8.7/10",
+    "yonetmenIns": "Director: Christopher Nolan",
+    "yonetmenDune": "Director: Denis Villeneuve",
+    "yonetmenMat": "Director: Wachowski Brothers",
+    "katilimIns": "Attendees 10/50",
+    "katilimDune": "Attendees 18/50",
+    "katilimMat": "Attendees 18/50",
+    "biletAl": "Get Ticket"
+
+}
